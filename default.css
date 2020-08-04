@@ -216,6 +216,12 @@ h6 { font-size: 16px;}
 	border-width: 5px;
 }
 
+.thumbnail {
+	border: 1px solid;
+	padding: 0px;
+	margin-bottom: 0px;
+}
+
 
 #light-mode{
 	background-color: #fff;
